@@ -145,16 +145,4 @@ public class ProductList {
 		printProductList(data);
 	}
 
-//	public void generateProduct() {
-//		newProducts.add(new Product("PD0001", "Cereal", 5.12, 50, "Available"));
-//		newProducts.add(new Product("PD0002", "Ketchup", 1.00, 81, "Available"));
-//		newProducts.add(new Product("PD0003", "Mayonnaise", 2.00, 42, "Available"));
-//		newProducts.add(new Product("PD0004", "Pasta", 1.84, 50, "Available"));
-//		newProducts.add(new Product("PD0005", "Sugar", 1.50, 64, "Available"));
-//		newProducts.add(new Product("PD0006", "Biscuits", 1.25, 5, "Not Available"));
-//		newProducts.add(new Product("PD0007", "Bread", 1.00, 28, "Available"));
-//		newProducts.add(new Product("PD0008", "Juice", 1.50, 10, "Available"));
-//		newProducts.add(new Product("PD0009", "Avocado", 0.50, 14, "Available"));
-//		newProducts.add(new Product("PD0010", "Flour", 1.50, 7, "Available"));
-//	}
 }
